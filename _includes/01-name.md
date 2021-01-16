@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# My name is neuro-data
+## this is my git hub
+### here's some code
+#### later for my data
